@@ -1,0 +1,12 @@
+(module 0015912040 (layer F.Cu) (tedit 547499A9)
+  (fp_text reference 0015912040 (at 0.0254 5.1816) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at -3.1496 2.1082 90) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at -1.27 2.22) (size 1.27 3.68) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at -1.27 -2.22) (size 1.27 3.68) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 1.27 2.22) (size 1.27 3.68) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 1.27 -2.22) (size 1.27 3.68) (layers F.Cu F.Paste F.Mask))
+)
