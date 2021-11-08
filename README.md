@@ -1,7 +1,7 @@
 # CANtact Hardware
 
 This repository contains the hardware design files for the CANtact tool. They 
-can be opened and edited with [KiCad](http://www.kicad-pcb.org/).
+can be opened and edited with [KiCad](http://www.kicad.org/).
 
 Documentation can be found on the [Linklayer Wiki](https://wiki.linklayer.com/index.php/CANtact).
 
